@@ -1,0 +1,42 @@
+[
+    {
+        "Image": "Dataset/Chinese/9.jpg",
+        "Answer": "The graph is a table displaying various companies and their respective percentages. The table is organized with columns for the company names and rows for the percentage values. The percentages are displayed in a range of 0% to 100%, indicating the relative size or importance of each company within the context of the table. The table appears to be in a foreign language, suggesting that it may be a financial or business-related document."
+    },
+    {
+        "Image": "Dataset/Chinese/4.jpg",
+        "Answer": "The graph is a financial spreadsheet or ledger, likely in Chinese, displaying various financial transactions and calculations. It includes columns for numbers, such as the total amount, and rows for different transactions or categories. The spreadsheet is organized in a way that allows for easy tracking and analysis of financial data. The numbers in the spreadsheet are in a foreign language, which suggests that the transactions might be related to a specific region or country."
+    },
+    {
+        "Image": "Dataset/Chinese/5.jpg",
+        "Answer": "The graph is a financial spreadsheet displaying various financial data, including a list of numbers and calculations. The numbers are written in a foreign language, which suggests that the spreadsheet is likely related to a foreign country or company. The spreadsheet contains multiple columns and rows, with the numbers and calculations organized in a way that makes it easy to understand and analyze the financial information."
+    },
+    {
+        "Image": "Dataset/Chinese/1.jpg",
+        "Answer": "The graph is a financial spreadsheet displaying various financial data, including numbers and calculations. It appears to be a table with columns and rows, possibly showing the balance of a company or an individual's financial situation. The numbers are presented in both English and Chinese, indicating that the data might be related to an international or multicultural context. The spreadsheet is filled with numbers and calculations, providing a detailed view of the financial information."
+    },
+    {
+        "Image": "Dataset/Chinese/8.jpg",
+        "Answer": "The graph displays a comparison between two different amounts of money, likely in a foreign currency. The left side of the graph shows a larger amount, while the right side shows a smaller amount. The two amounts are separated by a line, and the graph is labeled with the foreign currency symbol. The purpose of the graph is to visually compare the two amounts and provide a clear representation of the difference between them."
+    },
+    {
+        "Image": "Dataset/Chinese/7.jpg",
+        "Answer": "The graph is a financial report or spreadsheet that displays various financial data, including numbers and calculations. It appears to be written in a foreign language, possibly Chinese. The report contains multiple columns and rows, with the numbers and calculations organized in a structured manner. The content of the report is likely related to financial transactions, investments, or other financial matters."
+    },
+    {
+        "Image": "Dataset/Chinese/3.jpg",
+        "Answer": "The graph is a financial spreadsheet displaying various financial data in Chinese. It includes columns for numbers, such as 100, 10, 1, and 0.5, as well as a row of numbers that appear to be related to the financial data. The spreadsheet is organized in a way that allows for easy analysis and comparison of the financial information."
+    },
+    {
+        "Image": "Dataset/Chinese/2.jpg",
+        "Answer": "The graph is a financial spreadsheet displaying various financial data, including numbers and calculations. It appears to be a detailed report or analysis of financial transactions, possibly related to a business or an individual's financial situation. The spreadsheet contains multiple columns and rows, with numbers and calculations filling the cells. The data is presented in a clear and organized manner, making it easy to understand and analyze the financial information."
+    },
+    {
+        "Image": "Dataset/Chinese/6.jpg",
+        "Answer": "The graph displays a financial report in Chinese, likely related to a company or organization. It shows a breakdown of expenses and revenues, with various figures and numbers presented in a table-like format. The numbers are organized in columns, and the report appears to be quite detailed, providing a comprehensive overview of the financial situation."
+    },
+    {
+        "Image": "Dataset/Chinese/10.jpg",
+        "Answer": "The graph is a table displaying various companies and their respective locations. The table is divided into sections, each containing information about a different company. The companies are listed in the leftmost column, while the rightmost column shows the country where each company is based. The table is organized in a way that allows for easy comparison and identification of the companies and their locations."
+    }
+]

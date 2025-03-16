@@ -1,0 +1,132 @@
+{
+    "report_date": "113年12月31日",
+    "previous_report_date": "112年12月31日",
+    "financial_entities": [
+        {
+            "category": "流動資產",
+            "items": [
+                {
+                    "name": "現金及約當現金",
+                    "amount": 2127627043,
+                    "percentage": 32,
+                    "previous_amount": 1465427753,
+                    "previous_percentage": 26
+                },
+                {
+                    "name": "透過損益按公允價值衡量之金融資產-流動",
+                    "amount": 20700,
+                    "percentage": 0,
+                    "previous_amount": 92436,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "應收帳款",
+                    "amount": 101917322,
+                    "percentage": 2,
+                    "previous_amount": 66761221,
+                    "previous_percentage": 1
+                },
+                {
+                    "name": "其他應收款",
+                    "amount": 270168325,
+                    "percentage": 4,
+                    "previous_amount": 201313914,
+                    "previous_percentage": 4
+                },
+                {
+                    "name": "存貨",
+                    "amount": 140474573,
+                    "percentage": 2,
+                    "previous_amount": 71781,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "預付款項",
+                    "amount": 287868810,
+                    "percentage": 4,
+                    "previous_amount": 250997806,
+                    "previous_percentage": 5
+                },
+                {
+                    "name": "其他流動資產",
+                    "amount": 43227346,
+                    "percentage": 1,
+                    "previous_amount": 26229380,
+                    "previous_percentage": 0
+                }
+            ],
+            "total": {
+                "amount": 3085210730,
+                "percentage": 46,
+                "previous_amount": 2194206305,
+                "previous_percentage": 39
+            }
+        },
+        {
+            "category": "非流動資產",
+            "items": [
+                {
+                    "name": "透過損益按公允價值衡量之金融資產-非流動",
+                    "amount": 151998482,
+                    "percentage": 2,
+                    "previous_amount": 131741457,
+                    "previous_percentage": 2
+                },
+                {
+                    "name": "採用權益法之投資",
+                    "amount": 7822884,
+                    "percentage": 0,
+                    "previous_amount": 7999269,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "不動產、廠房及設備",
+                    "amount": 888562542,
+                    "percentage": 13,
+                    "previous_amount": 794199845,
+                    "previous_percentage": 14
+                },
+                {
+                    "name": "無形資產",
+                    "amount": 371405110,
+                    "percentage": 6,
+                    "previous_amount": 370462206,
+                    "previous_percentage": 7
+                },
+                {
+                    "name": "使用權資產",
+                    "amount": 3342907080,
+                    "percentage": 48,
+                    "previous_amount": 3031047947,
+                    "previous_percentage": 55
+                },
+                {
+                    "name": "遞延所得稅資產",
+                    "amount": 2628230,
+                    "percentage": 0,
+                    "previous_amount": 2276474,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "其他非流動資產",
+                    "amount": 61515486,
+                    "percentage": 1,
+                    "previous_amount": 10004923,
+                    "previous_percentage": 0
+                }
+            ],
+            "total": {
+                "amount": 3603585826,
+                "percentage": 54,
+                "previous_amount": 3338323125,
+                "previous_percentage": 60
+            }
+        }
+    ],
+    "total_assets": {
+        "amount": 6691930800,
+        "percentage": 100,
+        "previous_amount": 5532319425,
+        "previous_percentage": 100
+    }
+}

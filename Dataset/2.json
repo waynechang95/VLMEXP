@@ -1,0 +1,196 @@
+{
+    "report_date": "113年12月31日",
+    "previous_report_date": "112年12月31日",
+    "financial_entities": [
+        {
+            "category": "流動負債",
+            "items": [
+                {
+                    "name": "短期借款",
+                    "amount": 466539,
+                    "percentage": 0,
+                    "previous_amount": 121412,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "應付帳款",
+                    "amount": 72800558,
+                    "percentage": 1,
+                    "previous_amount": 55726757,
+                    "previous_percentage": 1
+                },
+                {
+                    "name": "應付票據",
+                    "amount": 1426001,
+                    "percentage": 0,
+                    "previous_amount": 1566030,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "應付薪資及福利",
+                    "amount": 47451509,
+                    "percentage": 1,
+                    "previous_amount": 33070634,
+                    "previous_percentage": 1
+                },
+                {
+                    "name": "應付營業稅",
+                    "amount": 7085173,
+                    "percentage": 0,
+                    "previous_amount": 3939316,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "應付租賃負債",
+                    "amount": 192635173,
+                    "percentage": 3,
+                    "previous_amount": 171484616,
+                    "previous_percentage": 3
+                },
+                {
+                    "name": "其他應付款",
+                    "amount": 220148573,
+                    "percentage": 3,
+                    "previous_amount": 198285481,
+                    "previous_percentage": 4
+                },
+                {
+                    "name": "本期所得稅負債",
+                    "amount": 147438423,
+                    "percentage": 2,
+                    "previous_amount": 109637978,
+                    "previous_percentage": 2
+                },
+                {
+                    "name": "預收收入",
+                    "amount": 59857879,
+                    "percentage": 1,
+                    "previous_amount": 29961614,
+                    "previous_percentage": 1
+                },
+                {
+                    "name": "其他流動負債",
+                    "amount": 451584636,
+                    "percentage": 7,
+                    "previous_amount": 30382558,
+                    "previous_percentage": 1
+                }
+            ],
+            "total": {
+                "amount": 1264524964,
+                "percentage": 19,
+                "previous_amount": 913583516,
+                "previous_percentage": 16
+            }
+        },
+        {
+            "category": "非流動負債",
+            "items": [
+                {
+                    "name": "應付公司債",
+                    "amount": 926604506,
+                    "percentage": 14,
+                    "previous_amount": 913899843,
+                    "previous_percentage": 17
+                },
+                {
+                    "name": "遞延所得稅負債",
+                    "amount": 35988486,
+                    "percentage": 1,
+                    "previous_amount": 37443886,
+                    "previous_percentage": 1
+                },
+                {
+                    "name": "租賃負債",
+                    "amount": 3988482,
+                    "percentage": 0,
+                    "previous_amount": 2815533,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "應付退休金準備",
+                    "amount": 7858532,
+                    "percentage": 0,
+                    "previous_amount": 6861535,
+                    "previous_percentage": 0
+                },
+                {
+                    "name": "其他非流動負債",
+                    "amount": 104284217,
+                    "percentage": 2,
+                    "previous_amount": 9257424,
+                    "previous_percentage": 0
+                }
+            ],
+            "total": {
+                "amount": 1103783171,
+                "percentage": 16,
+                "previous_amount": 1135525025,
+                "previous_percentage": 21
+            }
+        },
+        {
+            "category": "負債總計",
+            "total": {
+                "amount": 2368362135,
+                "percentage": 35,
+                "previous_amount": 2049108536,
+                "previous_percentage": 37
+            }
+        },
+        {
+            "category": "權益",
+            "items": [
+                {
+                    "name": "股本",
+                    "amount": 259297332,
+                    "percentage": 4,
+                    "previous_amount": 259297310,
+                    "previous_percentage": 5
+                },
+                {
+                    "name": "資本公積",
+                    "amount": 73260756,
+                    "percentage": 1,
+                    "previous_amount": 69876541,
+                    "previous_percentage": 1
+                },
+                {
+                    "name": "保留盈餘",
+                    "amount": 311146899,
+                    "percentage": 5,
+                    "previous_amount": 311146899,
+                    "previous_percentage": 6
+                },
+                {
+                    "name": "其他權益",
+                    "amount": 3972752023,
+                    "percentage": 58,
+                    "previous_amount": 3158037902,
+                    "previous_percentage": 57
+                }
+            ],
+            "total": {
+                "amount": 4288545167,
+                "percentage": 64,
+                "previous_amount": 3648223652,
+                "previous_percentage": 63
+            }
+        },
+        {
+            "category": "非控制權益",
+            "total": {
+                "amount": 35030468,
+                "percentage": 1,
+                "previous_amount": 24942920,
+                "previous_percentage": 0
+            }
+        }
+    ],
+    "total_liabilities_and_equity": {
+        "amount": 6691930800,
+        "percentage": 100,
+        "previous_amount": 5532319425,
+        "previous_percentage": 100
+    }
+}

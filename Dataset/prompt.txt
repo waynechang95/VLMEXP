@@ -1,0 +1,5 @@
+for the following graph, please extract all the named entities in the graph and combine them into the following JSON format:
+{
+    'Image': image file,
+    'Entity': ['a', 'b', 'c', 'd', ......]
+}

@@ -1,11 +1,13 @@
 from llava.model.builder import load_pretrained_model
 from llava.mm_utils import get_model_name_from_path
 from llava.eval.run_llava import eval_model
+import json
 
 model_path = "liuhaotian/llava-v1.5-7b"
 
-prompt = "請解釋這個表格的內容並分析"
-image_file = "table/2.jpg"
+prompt = "for the following graph, please show what is the graph about?"
+image_file = "1.jpg"
+
 
 args = type('Args', (), {
     "model_path": model_path,

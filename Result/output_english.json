@@ -1,0 +1,46 @@
+[
+    {
+        "Image": "Dataset/English/9.jpg",
+        "Answer": "The graph is a financial statement that shows the balance sheet and income statement for a company. The balance sheet displays the company's assets, liabilities, and equity, while the income statement shows the company's revenue and expenses over a specific period. The financial statement provides a comprehensive overview of the company's financial health and performance."
+    },
+    {
+        "Image": "Dataset/English/4.jpg",
+        "Answer": "The graph is a financial statement that shows the assets, liabilities, and equity of a company. It displays the company's financial position and performance over time. The statement includes various categories such as total assets, total liabilities, and total equity. The graph also shows the company's net income and the percentage of equity in relation to the total assets. This information is essential for investors and stakeholders to understand the financial health and stability of the company."
+    },
+    {
+        "Image": "Dataset/English/11.jpg",
+        "Answer": "The graph displays a comparison of various financial figures for Apple Inc. It shows the company's revenue, operating income, net income, and earnings per share (EPS) over a period of time. The figures are presented in a table format, with each column representing a different financial metric. The table is organized in a way that allows for easy comparison and analysis of the company's financial performance."
+    },
+    {
+        "Image": "Dataset/English/5.jpg",
+        "Answer": "The graph is a financial statement that shows the cash flow for a company over a period of three months. It displays the cash inflows and outflows, including the total cash balance, in a tabular format. The statement provides a clear overview of the company's financial situation and helps to understand its liquidity and overall financial health."
+    },
+    {
+        "Image": "Dataset/English/1.jpg",
+        "Answer": "The graph displays financial data for a company, likely a publicly traded one, for the year 2015. It shows various financial metrics, such as revenue, operating expenses, net income, and earnings per share (EPS). The data is presented in a table format, with columns for each financial metric and rows for each quarter of the year. The table is organized in a way that allows for easy comparison of the financial performance across different quarters and the entire year."
+    },
+    {
+        "Image": "Dataset/English/8.jpg",
+        "Answer": "The graph is a financial statement that shows the company's revenue and expenses for the year 2015. It displays the company's income and expenses in a table format, with columns for each category. The table is organized in a way that allows for easy comparison and analysis of the company's financial performance. The graph provides a clear overview of the company's financial situation, helping stakeholders and decision-makers to understand the company's financial health and make informed decisions."
+    },
+    {
+        "Image": "Dataset/English/7.jpg",
+        "Answer": "The graph is a financial spreadsheet that displays various financial data for a company. It includes a table with columns for different financial aspects such as cost, sales, and expenses. The table is organized in a way that allows for easy comparison and analysis of the financial data. The spreadsheet also includes a chart that shows the company's financial performance over time, providing a visual representation of the trends and patterns in the data. This type of financial analysis is essential for businesses to make informed decisions and monitor their financial health."
+    },
+    {
+        "Image": "Dataset/English/3.jpg",
+        "Answer": "The graph is a financial spreadsheet displaying various income and expense figures for a company. It shows the company's revenue, expenses, and net income for different periods, such as January 2015, January 2016, and January 2017. The spreadsheet is organized in a way that allows for easy comparison of the financial data across different timeframes. The figures are presented in a tabular format, with columns for the month, year, and the corresponding income or expense amounts."
+    },
+    {
+        "Image": "Dataset/English/2.jpg",
+        "Answer": "The graph displays financial data for a company, including revenue, expenses, and net income. The data is presented in a table format, with columns for different financial categories and rows for various time periods. The table shows the company's financial performance over the past few years, providing a clear overview of its income and expenses. The data is organized in a way that allows for easy comparison and analysis of the company's financial health and growth over time."
+    },
+    {
+        "Image": "Dataset/English/6.jpg",
+        "Answer": "The graph is a financial analysis report that shows the company's revenue and expenses for the year 2014. It displays the company's income statement, which includes the company's gross profit, operating expenses, and net income. The report also shows the company's balance sheet, which provides information about the company's assets, liabilities, and equity. The financial data is presented in a table format, with columns for each category of expenses and revenues. The report is likely used by the company's management to evaluate its financial performance and make informed decisions about future investments and strategies."
+    },
+    {
+        "Image": "Dataset/English/10.jpg",
+        "Answer": "The graph is a financial statement that shows the cash flow for a company. It displays various cash inflows and outflows, including investments, financing, and operating activities. The statement provides a detailed breakdown of the company's cash flow for a specific period, such as a month or a year. The graph is organized into different sections, each representing a different category of cash flow, such as cash inflows from investments, financing activities, and operating activities. The financial statement helps to understand the company's financial health and performance during the period being analyzed."
+    }
+]
