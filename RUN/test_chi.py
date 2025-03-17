@@ -5,7 +5,11 @@ from llava.eval.run_llava_output import eval_model
 import json
 import os
 
-model_path = "liuhaotian/llava-v1.5-7b"
+# LLava v1.5
+# model_path = "liuhaotian/llava-v1.5-7b"
+
+# LLava v1.6
+model_path = "liuhaotian/llava-v1.6-vicuna-7b"
 
 prompt = "for the following graph, please show what is the graph about?"
 

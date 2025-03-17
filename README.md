@@ -114,10 +114,20 @@ with open(output_path, 'w', encoding='utf-8') as outfile:
 
 <img src="Dataset/English/1.jpg" width="70%">
 
+3. LLaVA V1.5 7B
+
 ```JSON
 {
         "Image": "Chinese/Dataset/Chinese/1.jpg",
         "Answer": "The graph is a financial spreadsheet displaying various financial data, including numbers and calculations. It appears to be a table with columns and rows, possibly showing the balance of a company or an individual's financial situation. The numbers are presented in both English and Chinese, indicating that the data might be related to an international or multicultural context. The spreadsheet is filled with numbers and calculations, providing a detailed view of the financial information."
     }
 
+```
+
+4. LLaVA V1.6 7B
+```JSON
+{
+        "Image": "Dataset/English/1.jpg",
+        "Answer": "The graph you've provided appears to be a financial summary or a financial statement for a company, specifically for the fiscal year 2024. It includes various financial metrics such as revenue, gross margin, operating expenses, operating income, net income, diluted earnings per share, and non-GAAP financial measures.\n\nHere's a breakdown of the information presented:\n\n1. **Revenue**: The company's total revenue for the fiscal year 2024 is $22,103 million.\n\n2. **Gross Margin**: The gross margin is the percentage of revenue that is left after subtracting the cost of goods sold. It is 70.6% for the fiscal year 2024.\n\n3. **Operating Expenses**: The operating expenses are the costs incurred in the day-to-day operations of the business. They are $13,716 million.\n\n4. **Operating Income**: The operating income is the profit from the company's core business operations, excluding certain items. It is $14,749 million.\n\n5. **Net Income**: The net income is the company's profit after accounting for all expenses and taxes. It is $12,829 million.\n\n6. **Diluted Earnings per Share (EPS)**: This is the company's profit per share, adjusted for dilution. It is $5.16.\n\n7. **Non-GAAP Financial Measures**: These are financial measures that are not in accordance with Generally Accepted Accounting Principles (GAAP). They are often used to provide additional information about a company's financial performance.\n\n8. **Q4 FY24**: This refers to the fourth quarter of the fiscal year 2024.\n\n9. **Q3 FY24**: This refers to the third quarter of the fiscal year 2024.\n\n10. **Q2 FY24**: This refers to the second quarter of the fiscal year 2024.\n\n11. **Q1 FY24**: This refers to the first quarter of the fiscal year 2024.\n\n12. **YTD FY24**: This refers to the year-to-date fiscal year 2024, which includes the first four quarters.\n\n13. **YTD FY23**: This refers to the year-to-date fiscal year 2023, which includes the first four quarters.\n\n14. **YTD FY22**: This refers to the year-to-date fiscal year 2022, which includes the first four quarters.\n\n15. **YTD FY21**: This refers to the year-to-date fiscal year 2021, which includes the first four quarters.\n\nThe graph is a snapshot of the company's financial performance over the past four years, providing a comparison of the company's financial health and growth over time."
+    }
 ```
