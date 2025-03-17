@@ -110,16 +110,16 @@ with open(output_path, 'w', encoding='utf-8') as outfile:
     }
 ```
 
-2. Example (Chinese/1.jpg)
+2. Example (English/1.jpg)
 
 <img src="Dataset/English/1.jpg" width="70%">
 
 3. LLaVA V1.5 7B
 
 ```JSON
-{
-        "Image": "Chinese/Dataset/Chinese/1.jpg",
-        "Answer": "The graph is a financial spreadsheet displaying various financial data, including numbers and calculations. It appears to be a table with columns and rows, possibly showing the balance of a company or an individual's financial situation. The numbers are presented in both English and Chinese, indicating that the data might be related to an international or multicultural context. The spreadsheet is filled with numbers and calculations, providing a detailed view of the financial information."
+
+        "Image": "Dataset/English/1.jpg",
+        "Answer": "The graph displays financial data for a company, likely a publicly traded one, for the year 2015. It shows various financial metrics, such as revenue, operating expenses, net income, and earnings per share (EPS). The data is presented in a table format, with columns for each financial metric and rows for each quarter of the year. The table is organized in a way that allows for easy comparison of the financial performance across different quarters and the entire year."
     }
 
 ```
@@ -132,8 +132,3 @@ with open(output_path, 'w', encoding='utf-8') as outfile:
     }
 ```
 
-```JSON
-{
-        "Image": "Dataset/Chinese/1.jpg",
-        "Answer": "The image you've provided appears to be a table or a list of data, possibly from a financial report or a statistical analysis. The table is structured with columns and rows, and it includes numerical values and percentages. The percentages are often used to indicate the percentage change or growth from one period to another.\n\nThe table is divided into sections with headings such as \"年份\" (Year), \"项目\" (Project), \"总金额\" (Total Amount), \"增长率\" (Growth Rate), and \"%\" (Percentage). The \"年份\" column suggests that the data is related to a specific year, and the \"项目\" column indicates the project or category of data being reported.\n\nThe \"总金额\" column shows the total amount of money associated with each project, and the \"增长率\" column indicates the percentage change or growth rate for each project. The \"%\" column likely represents the percentage change from a previous period or the percentage of the total amount for that project.\n\nWithout more context or a clearer view of the entire table, it's difficult to provide a detailed explanation of what the graph is about. However, it seems to be a financial or economic analysis that compares the performance of different projects or categories over a specific period."
-    }
