@@ -117,7 +117,7 @@ with open(output_path, 'w', encoding='utf-8') as outfile:
 3. LLaVA V1.5 7B
 
 ```JSON
-
+{
         "Image": "Dataset/English/1.jpg",
         "Answer": "The graph displays financial data for a company, likely a publicly traded one, for the year 2015. It shows various financial metrics, such as revenue, operating expenses, net income, and earnings per share (EPS). The data is presented in a table format, with columns for each financial metric and rows for each quarter of the year. The table is organized in a way that allows for easy comparison of the financial performance across different quarters and the entire year."
     }
