@@ -11,7 +11,8 @@ import os
 # LLava v1.6
 model_path = "liuhaotian/llava-v1.6-vicuna-7b"
 
-prompt = "for the following graph, please show what is the graph about?"
+# prompt = "for the following graph, please show what is the graph about?"
+prompt = "根據以下的圖片，請問這張圖片在描述些什麼？"
 
 image_file_path = 'Dataset/Chinese/'
 image_file_list = os.listdir(image_file_path)
